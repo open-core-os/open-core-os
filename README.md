@@ -1,1 +1,5 @@
 # open-core-os
+
+There are plenty of awesome lists of open-source tools (like [Runa's](https://github.com/RunaCapital/awesome-oss-alternatives) or [this one](https://github.com/sereneblue/awesome-oss)). They're all huge, which is expected if the purpose of the list is to cover all available tools. Which means that for solving each specific problem at hand there are multiple tools listed, and someone who hears about the tool for the first time needs to do their own research to decide which of the options to use.
+
+The purpose of this list is to provide a much shorter curation of leading _commercial_ open-source tools, specifically developer infrastructure tools. The idea is based on the following observation: for many common problems there is sort of a "duopoly": one undisputed leader that isn't open source (typically SaaS product), and their open source counterpart (typically "open core" with a permissive license for the Community Edition combined as well as Enterprise tier with extra features). The canonical example is the GitHub and Gitlab: both products solve the problem of code collaboration, one in a SaaS way, another in a self-managed open-core way.
